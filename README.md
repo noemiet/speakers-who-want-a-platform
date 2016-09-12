@@ -259,6 +259,4 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
-Noemie Tshinanga
-Front End Developer
-[Website] (http://noemietshinanga.com/) | [Twitter] (https://twitter.com/noemietshinanga) | [GitHub] (https://github.com/noemiet)
+
